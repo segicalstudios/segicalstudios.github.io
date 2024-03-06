@@ -124,7 +124,7 @@ body {
     color: rgba(243,79,76,1);
 }
 
-button {
+.playbutton {
     background-color: rgba(211,65,63,1); /* Green */
     border: none;
     color: white;
@@ -136,7 +136,7 @@ button {
     border-radius: 8px;
 }
 
-button:hover {
+.playbutton:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
 
